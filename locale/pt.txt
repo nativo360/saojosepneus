@@ -48,6 +48,6 @@ LinkBehaviour_B065E4DE_BB87_53A0_41DB_04D026ED92F9.source = http://www.twitter.c
 LinkBehaviour_B065F4DE_BB87_53A0_41DA_5A91F51D6D65.source = http://twitter.com/loremipsum
 LinkBehaviour_D4FBA294_C086_4C58_41C9_9A57F12480C6.source = https://www.instagram.com/nativo360digital/
 LinkBehaviour_DA9F2E6D_C086_54C8_41E2_27C6AC02D9EC.source = https://saojosepneus.laloja.online/
-LinkBehaviour_DC352DFC_C0FA_D7C8_41E1_1419907ADE60.source = https://nativo360.github.io/saojosepneus/
+LinkBehaviour_DC352DFC_C0FA_D7C8_41E1_1419907ADE60.source = https://www.instagram.com/saojosepneus?igsh=MXNidWF0am92d3JpMg==
 LinkBehaviour_DCD5D093_C0FA_CC58_41E1_E3559BD2F95D.source = https://saojosepneus.laloja.online/
 LinkBehaviour_DD201DFD_C086_57C8_41E4_53FC4E506A83.source = https://wa.me/98984043621
